@@ -1,0 +1,186 @@
+##############:2018-11-22 17:46:25.556003
+==============================================================
+Service not found
+Service not found
+Service Found
+Service Name: ALG
+	Username: NT AUTHORITY\LocalService
+	Start Type: manual
+	Status: stopped
+	Description: Provides support for 3rd party protocol plug-ins for Internet Connection Sharing
+Service not found
+Service Found
+Service Name: BITS
+	Username: LocalSystem
+	Start Type: manual
+	Status: stopped
+	Description: Transfers files in the background using idle network bandwidth. If the service is disabled, then any applications that depend on BITS, such as Windows Update or MSN Explorer, will be unable to automatically download programs and other information.
+Service Found
+Service Name: Browser
+	Username: LocalSystem
+	Start Type: manual
+	Status: stopped
+	Description: Maintains an updated list of computers on the network and supplies this list to computers designated as browsers. If this service is stopped, this list will not be updated or maintained. If this service is disabled, any services that explicitly depend on it will fail to start.
+Service Found
+Service Name: DoSvc
+	Username: NT Authority\NetworkService
+	Start Type: manual
+	Status: running
+	Description: Performs content delivery optimization tasks
+Service Found
+Service Name: TrkWks
+	Username: LocalSystem
+	Start Type: automatic
+	Status: running
+	Description: Maintains links between NTFS files within a computer or across computers in a network.
+Service Found
+Service Name: MSDTC
+	Username: NT AUTHORITY\NetworkService
+	Start Type: manual
+	Status: stopped
+	Description: Coordinates transactions that span multiple resource managers, such as databases, message queues, and file systems. If this service is stopped, these transactions will fail. If this service is disabled, any services that explicitly depend on it will fail to start.
+Service Found
+Service Name: DNSCache
+	Username: NT AUTHORITY\NetworkService
+	Start Type: automatic
+	Status: running
+	Description: The DNS Client service (dnscache) caches Domain Name System (DNS) names and registers the full computer name for this computer. If the service is stopped, DNS names will continue to be resolved. However, the results of DNS name queries will not be cached and the computer's name will not be registered. If the service is disabled, any services that explicitly depend on it will fail to start.
+Service Found
+Service Name: EventLog
+	Username: NT AUTHORITY\LocalService
+	Start Type: automatic
+	Status: running
+	Description: This service manages events and event logs. It supports logging events, querying events, subscribing to events, archiving event logs, and managing event metadata. It can display events in both XML and plain text format. Stopping this service may compromise security and reliability of the system.
+Service Found
+Service Name: EAPHost
+	Username: localSystem
+	Start Type: manual
+	Status: stopped
+	Description: The Extensible Authentication Protocol (EAP) service provides network authentication in such scenarios as 802.1x wired and wireless, VPN, and Network Access Protection (NAP).  EAP also provides application programming interfaces (APIs) that are used by network access clients, including wireless and VPN clients, during the authentication process.  If you disable this service, this computer is prevented from accessing networks that require EAP authentication.
+Service not found
+Service not found
+Service Found
+Service Name: SharedAccess
+	Username: LocalSystem
+	Start Type: manual
+	Status: stopped
+	Description: Provides network address translation, addressing, name resolution and/or intrusion prevention services for a home or small office network.
+Service not found
+Service not found
+Service not found
+Service Found
+Service Name: PNRPSvc
+	Username: NT AUTHORITY\LocalService
+	Start Type: manual
+	Status: stopped
+	Description: Enables serverless peer name resolution over the Internet using the Peer Name Resolution Protocol (PNRP). If disabled, some peer-to-peer and collaborative applications, such as Remote Assistance, may not function.
+Service Found
+Service Name: PlugPlay
+	Username: LocalSystem
+	Start Type: manual
+	Status: running
+	Description: Enables a computer to recognize and adapt to hardware changes with little or no user input. Stopping or disabling this service will result in system instability.
+Service Found
+Service Name: Spooler
+	Username: LocalSystem
+	Start Type: automatic
+	Status: running
+	Description: This service spools print jobs and handles interaction with the printer.  If you turn off this service, you won’t be able to print or see your printers.
+Service Found
+Service Name: RpcSs
+	Username: NT AUTHORITY\NetworkService
+	Start Type: automatic
+	Status: running
+	Description: The RPCSS service is the Service Control Manager for COM and DCOM servers. It performs object activations requests, object exporter resolutions and distributed garbage collection for COM and DCOM servers. If this service is stopped or disabled, programs using COM or DCOM will not function properly. It is strongly recommended that you have the RPCSS service running.
+Service not found
+Service Found
+Service Name: SecLogon
+	Username: LocalSystem
+	Start Type: manual
+	Status: stopped
+	Description: Enables starting processes under alternate credentials. If this service is stopped, this type of logon access will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+Service Found
+Service Name: SamSs
+	Username: LocalSystem
+	Start Type: automatic
+	Status: running
+	Description: The startup of this service signals other services that the Security Accounts Manager (SAM) is ready to accept requests.  Disabling this service will prevent other services in the system from being notified when the SAM is ready, which may in turn cause those services to fail to start correctly. This service should not be disabled.
+Service Found
+Service Name: SENS
+	Username: LocalSystem
+	Start Type: automatic
+	Status: running
+	Description: Monitors system events and notifies subscribers to COM+ Event System of these events.
+Service Found
+Service Name: SysMain
+	Username: LocalSystem
+	Start Type: automatic
+	Status: running
+	Description: Maintains and improves system performance over time.
+Service Found
+Service Name: Schedule
+	Username: LocalSystem
+	Start Type: automatic
+	Status: running
+	Description: Enables a user to configure and schedule automated tasks on this computer. The service also hosts multiple Windows system-critical tasks. If this service is stopped or disabled, these tasks will not be run at their scheduled times. If this service is disabled, any services that explicitly depend on it will fail to start.
+Service Found
+Service Name: LmHosts
+	Username: NT AUTHORITY\LocalService
+	Start Type: manual
+	Status: running
+	Description: Provides support for the NetBIOS over TCP/IP (NetBT) service and NetBIOS name resolution for clients on the network, therefore enabling users to share files, print, and log on to the network. If this service is stopped, these functions might be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+Service Found
+Service Name: VSS
+	Username: LocalSystem
+	Start Type: manual
+	Status: stopped
+	Description: Manages and implements Volume Shadow Copies used for backup and other purposes. If this service is stopped, shadow copies will be unavailable for backup and the backup may fail. If this service is disabled, any services that explicitly depend on it will fail to start.
+Service Found
+Service Name: AudioSrv
+	Username: NT AUTHORITY\LocalService
+	Start Type: automatic
+	Status: running
+	Description: Manages audio for Windows-based programs.  If this service is stopped, audio devices and effects will not function properly.  If this service is disabled, any services that explicitly depend on it will fail to start
+Service Found
+Service Name: WERSvc
+	Username: localSystem
+	Start Type: manual
+	Status: stopped
+	Description: Allows errors to be reported when programs stop working or responding and allows existing solutions to be delivered. Also allows logs to be generated for diagnostic and repair services. If this service is stopped, error reporting might not work correctly and results of diagnostic services and repairs might not be displayed.
+Service Found
+Service Name: MpsSvc
+	Username: NT Authority\LocalService
+	Start Type: automatic
+	Status: running
+	Description: Windows Defender Firewall helps protect your computer by preventing unauthorized users from gaining access to your computer through the Internet or a network.
+Service Found
+Service Name: SharedAccess
+	Username: LocalSystem
+	Start Type: manual
+	Status: stopped
+	Description: Provides network address translation, addressing, name resolution and/or intrusion prevention services for a home or small office network.
+Service Found
+Service Name: STISvc
+	Username: NT Authority\LocalService
+	Start Type: automatic
+	Status: running
+	Description: Provides image acquisition services for scanners and cameras
+Service Found
+Service Name: W32Time
+	Username: NT AUTHORITY\LocalService
+	Start Type: manual
+	Status: stopped
+	Description: Maintains date and time synchronization on all clients and servers in the network. If this service is stopped, date and time synchronization will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+Service Found
+Service Name: WUAUServ
+	Username: LocalSystem
+	Start Type: manual
+	Status: stopped
+	Description: Enables the detection, download, and installation of updates for Windows and other programs. If this service is disabled, users of this computer will not be able to use Windows Update or its automatic updating feature, and programs will not be able to use the Windows Update Agent (WUA) API.
+Service Found
+Service Name: WLANSvc
+	Username: LocalSystem
+	Start Type: automatic
+	Status: running
+	Description: The WLANSVC service provides the logic required to configure, discover, connect to, and disconnect from a wireless local area network (WLAN) as defined by IEEE 802.11 standards. It also contains the logic to turn your computer into a software access point so that other devices or computers can connect to your computer wirelessly using a WLAN adapter that can support this. Stopping or disabling the WLANSVC service will make all WLAN adapters on your computer inaccessible from the Windows networking UI. It is strongly recommended that you have the WLANSVC service running if your computer has a WLAN adapter.
+Service not found
