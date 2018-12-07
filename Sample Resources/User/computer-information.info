@@ -1,0 +1,65 @@
+#########:2018-11-22 17:46:18.183285
+========================================================================
+
+Platform Information: nt Windows 10
+System Information: Windows AMD64 Windows-10-10.0.17134
+Platform UNAME: uname_result(system='Windows', node='#######', release='10', version='10.0.17134', machine='AMD64', processor='Intel64 Family 6 Model 78 Stepping 3, GenuineIntel')
+Processor: Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+Instance of Win32 Processor: 
+instance of Win32_Processor
+{
+	AddressWidth = 64;
+	Architecture = 9;
+	AssetTag = "To Be Filled By O.E.M.";
+	Availability = 3;
+	Caption = "Intel64 Family 6 Model 78 Stepping 3";
+	Characteristics = 252;
+	CpuStatus = 1;
+	CreationClassName = "Win32_Processor";
+	CurrentClockSpeed = 1992;
+	CurrentVoltage = 8;
+	DataWidth = 64;
+	Description = "Intel64 Family 6 Model 78 Stepping 3";
+	DeviceID = "CPU0";
+	ExtClock = 100;
+	Family = 206;
+	L2CacheSize = 512;
+	L3CacheSize = 3072;
+	L3CacheSpeed = 0;
+	Level = 6;
+	LoadPercentage = 16;
+	Manufacturer = "GenuineIntel";
+	MaxClockSpeed = 1992;
+	Name = "Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz";
+	NumberOfCores = 2;
+	NumberOfEnabledCore = 2;
+	NumberOfLogicalProcessors = 4;
+	PartNumber = "To Be Filled By O.E.M.";
+	PowerManagementSupported = FALSE;
+	ProcessorId = "###################";
+	ProcessorType = 3;
+	Revision = 19971;
+	Role = "CPU";
+	SecondLevelAddressTranslationExtensions = TRUE;
+	SerialNumber = "To Be Filled By ";
+	SocketDesignation = "U3E1";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "MRSMETSTOF";
+	ThreadCount = 4;
+	UpgradeMethod = 51;
+	Version = "";
+	VirtualizationFirmwareEnabled = TRUE;
+	VMMonitorModeExtensions = TRUE;
+};
+
+Computer Name and User: ########, User
+Detected Drives: ['C:\\', 'E:\\', 'D:\\']
+Available Spaces for each Drives: [287.3494300842285, 311.21337509155273, 1.5221710205078125]
+Host-IP: 192.168.56.1
+Public-IP: None
+Mac Address: 37498578347583
+Wifi-Password: ['##########               |  MaTtEo121516\n', 'Pldtdslhome                   |  1234567890\n', '######## |  mgabobo123\n', 'Need WiFi? Pm me              |  kuyawill\n', '@FreeGoWiFi                   |  \n', 'Iphone X                      |  52525252\n', 'MY ASUS 2                     |  \n', 'iPhone X                      |  52525252\n', 'AndroidAP                     |  12345678\n', "Rustan's Free WiFi            |  Fairytail05\n", 'PLDTMyDSLBiz83320             |  brj32018\n']
+
+Coded by: ARIEN
