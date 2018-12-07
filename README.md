@@ -1,0 +1,2 @@
+# Basic-Python-Computer-Information-Gathering
+Basic computer information gathering using Python programming language. The script aims to collect some necessary information of a computer such as Computer's name and User, processor information, system platform, drives and spaces, stored wifi passwords, host and public IP address, mac address etc.. It also collects current running windows services, background processes, installed applications and chrome's bookmarks and history. The script can be modified to be able to expand its use and purpose.
